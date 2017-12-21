@@ -123,9 +123,10 @@ a:hover {
     .text {
         flex-wrap: wrap;
     }
-    .projects {
+    .projects, .contact {
         flex-wrap: wrap;
     }
+
 }
 
 .topnav {
